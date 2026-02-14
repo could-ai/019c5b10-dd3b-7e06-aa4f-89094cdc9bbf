@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dashboard_content.dart';
 import 'placeholder_pages.dart';
 
 class DashboardLayout extends StatefulWidget {
